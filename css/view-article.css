@@ -1,0 +1,12 @@
+@font-face {
+    font-family: nafees_web_naskhshipped;
+    src: url(/fonts/nafees_web_naskhshipped.ttf);
+  }
+#article-content {
+    font-family: nafees_web_naskhshipped;
+    outline: none !important;
+    color: black;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+}
